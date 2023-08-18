@@ -1,0 +1,40 @@
+sops_stitch_xpu:
+  Start Memory Usage: 1.52 GB
+  Load Memory Usage: 4.68 GB
+  loadMemory: 5,039,669,248
+  nDeviceMemTotal: 4,208,252,088
+  totalMemory: 13,903,454,208
+
+sops_single_xpu:
+  Start Memory Usage: 1.54 GB
+  Load Memory Usage: 4.42 G
+  loadMemory: 4,784,656,384
+  nDeviceMemTotal: 4,208,257,976
+  totalMemory: 13,615,468,544
+
+lops_export_xpu:
+  Start Memory Usage: 1.55 GB
+  Load Memory Usage: 4.63 GB
+  loadMemory: 5,003,059,200
+  nDeviceMemTotal: 4,210,370,872
+  totalMemory: 13,848,436,736
+
+sops_stitch_cpu:
+  Start Memory Usage: 1.51 GB
+  Load Memory Usage: 2.89 GB
+  loadMemory: 3,138,641,920
+  totalMemory: 4,343,959,552
+
+
+sops_single_cpu:
+  Start Memory Usage: 1.51 GB
+  Load Memory Usage: 2.67 GB
+  loadMemory: 2,889,424,896
+  totalMemory: 4,133,519,360
+
+
+lops_export_cpu:
+  Start Memory Usage: 1.55 GB
+  Load Memory Usage: 2.87 GB
+  loadMemory: 3,137,761,280
+  totalMemory: 4,401,438,720
